@@ -5,22 +5,22 @@ Problems that I have attempted in Hackerrank.
 
 ├── Java
 
-  ├── 2.java
+    ├── 2.java
   
-  ├──3.java
+    ├──3.java
   
-  ├──4.java
+    ├──4.java
   
-  ├──javaDatabase.java
+    ├──javaDatabase.java
   
-  ├──javaEndOfFile.java
+    ├──javaEndOfFile.java
   
-  ├──javaIntString.java
+    ├──javaIntString.java
   
-  ├──javaOutput.java
+    ├──javaOutput.java
   
-  ├──javaCurrencyFormatter.java
+    ├──javaCurrencyFormatter.java
   
-  ├──javaStatic.java
+    ├──javaStatic.java
   
-  ├──javaLoop2.java
+    ├──javaLoop2.java
