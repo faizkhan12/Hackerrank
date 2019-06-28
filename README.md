@@ -3,7 +3,7 @@ Problems that I have attempted in Hackerrank.
 
 # Directory
 
-├── Java
+├── JAVA
 
     ├── 2.java
   
